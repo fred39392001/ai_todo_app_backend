@@ -1,0 +1,12 @@
+# 忽略 .env 檔案，避免洩漏敏感資訊
+.env
+
+# Python 虛擬環境
+venv/
+
+# __pycache__ 目錄（Python 產生的暫存檔）
+__pycache__/
+
+# IDE 設定檔案（可選）
+.vscode/
+.idea/
